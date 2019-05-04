@@ -1,6 +1,7 @@
 use jruby
 
 bundle update
+
 rake test
 
 # Running:
